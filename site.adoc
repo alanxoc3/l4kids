@@ -1,4 +1,0 @@
-= Linux 4 Kids
-.About Us
-We bring quality (or non-quality) open source software to children everywhere, around the world.
-
