@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## About Us
 
-You can use the [editor on GitHub](https://github.com/alanxoc3/l4kids/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Have you ever wanted your children to be 高副帅 when they grow up? Have you
+ever wondered what 高副帅 means? It means "Tall, Rich, and Handsome". Have you
+ever wanted your kids to be tall, rich and handsome later in life. How about
+minus the tall and handsome part? Have you ever just wanted your kids to simply
+be rich?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have wanted your children to be rich later in life, you have come to the
+right place! *Linux 4 Kids* is bringing the benefits of open source software to
+children, one kid at a time!
 
-### Markdown
+Here is the secret. Teach your kids linux now! This way they will live a
+successful life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alanxoc3/l4kids/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
